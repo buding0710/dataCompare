@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time    : 2022/3/3 21:36
-# @Author  : ningzijing
+# @Author  : buding
 # @Site    : 
 # @File    : mapping_data_compare.py
 # @Software: PyCharm
