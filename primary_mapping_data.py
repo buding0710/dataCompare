@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time    : 2022/3/12 16:08
-# @Author  : ningzijing
+# @Author  : buding
 # @Site    : 
 # @File    : primary_mapping_data.py
 # @Software: PyCharm
